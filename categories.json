@@ -1,0 +1,277 @@
+{
+  "food": [
+    "groceries",
+    "restaurant",
+    "fast_food",
+    "cafe",
+    "coffee",
+    "bakery",
+    "snacks",
+    "beverages",
+    "food_delivery",
+    "meal_subscription",
+    "other"
+  ],
+
+  "transport": [
+    "public_transport",
+    "bus",
+    "train",
+    "metro",
+    "cab_ride_hailing",
+    "auto_rickshaw",
+    "parking",
+    "tolls",
+    "fuel",
+    "vehicle_service",
+    "vehicle_repair",
+    "vehicle_insurance",
+    "vehicle_maintenance",
+    "bike",
+    "car",
+    "other"
+  ],
+
+  "travel": [
+    "flight",
+    "train_ticket",
+    "bus_ticket",
+    "hotel",
+    "hostel",
+    "airbnb",
+    "cab",
+    "local_transport",
+    "travel_food",
+    "travel_activities",
+    "travel_insurance",
+    "visa",
+    "luggage",
+    "travel_shopping",
+    "other"
+  ],
+
+  "housing": [
+    "rent",
+    "maintenance",
+    "property_tax",
+    "home_repair",
+    "furniture",
+    "appliances",
+    "household_supplies",
+    "cleaning",
+    "maid",
+    "plumber",
+    "electrician",
+    "pest_control",
+    "security",
+    "other"
+  ],
+
+  "utilities": [
+    "electricity",
+    "water",
+    "gas",
+    "internet",
+    "mobile_recharge",
+    "telephone",
+    "cable_tv",
+    "dth",
+    "other"
+  ],
+
+  "education": [
+    "college_fees",
+    "school_fees",
+    "courses",
+    "online_courses",
+    "learning_subscription",
+    "certification",
+    "books",
+    "ebooks",
+    "study_material",
+    "stationery",
+    "exam_fees",
+    "workshops",
+    "seminars",
+    "coaching",
+    "tuition",
+    "educational_software",
+    "other"
+  ],
+
+  "health": [
+    "doctor",
+    "hospital",
+    "medicine",
+    "pharmacy",
+    "lab_test",
+    "dental",
+    "eye_care",
+    "health_insurance",
+    "therapy",
+    "fitness",
+    "gym",
+    "yoga",
+    "medical_equipment",
+    "other"
+  ],
+
+  "personal_care": [
+    "skincare",
+    "haircare",
+    "cosmetics",
+    "makeup",
+    "salon",
+    "spa",
+    "haircut",
+    "beauty_products",
+    "personal_hygiene",
+    "other"
+  ],
+
+  "shopping": [
+    "clothing",
+    "shoes",
+    "bags",
+    "accessories",
+    "electronics",
+    "gadgets",
+    "furniture",
+    "home_decor",
+    "kitchen",
+    "appliances",
+    "gifts",
+    "online_shopping",
+    "other"
+  ],
+
+  "entertainment": [
+    "movies",
+    "ott_subscription",
+    "music_subscription",
+    "gaming",
+    "concerts",
+    "events",
+    "books_for_leisure",
+    "hobbies",
+    "sports",
+    "theme_park",
+    "streaming",
+    "other"
+  ],
+
+  "family_kids": [
+    "childcare",
+    "school_expenses",
+    "toys",
+    "kids_clothing",
+    "kids_food",
+    "baby_products",
+    "family_activities",
+    "family_gifts",
+    "elder_care",
+    "other"
+  ],
+
+  "pets": [
+    "pet_food",
+    "vet",
+    "pet_medicine",
+    "grooming",
+    "pet_toys",
+    "pet_supplies",
+    "pet_insurance",
+    "other"
+  ],
+
+  "finance": [
+    "bank_fees",
+    "atm_fees",
+    "credit_card_fees",
+    "loan_payment",
+    "loan_interest",
+    "insurance",
+    "life_insurance",
+    "investment_fees",
+    "taxes",
+    "income_tax",
+    "other"
+  ],
+
+  "subscriptions": [
+    "software_subscription",
+    "cloud_storage",
+    "ai_tools",
+    "developer_tools",
+    "productivity_tools",
+    "news_subscription",
+    "magazine_subscription",
+    "other"
+  ],
+
+  "gifts_donations": [
+    "birthday_gift",
+    "wedding_gift",
+    "festival_gift",
+    "charity",
+    "donation",
+    "religious_donation",
+    "other"
+  ],
+
+  "work": [
+    "office_supplies",
+    "business_travel",
+    "coworking",
+    "professional_membership",
+    "professional_tools",
+    "work_equipment",
+    "client_expenses",
+    "other"
+  ],
+
+  "technology": [
+    "laptop",
+    "computer",
+    "phone",
+    "tablet",
+    "headphones",
+    "accessories",
+    "software",
+    "cloud_services",
+    "domain",
+    "hosting",
+    "ai_tools",
+    "developer_tools",
+    "other"
+  ],
+
+  "lifestyle": [
+    "hobbies",
+    "books",
+    "photography",
+    "art",
+    "music",
+    "sports",
+    "outdoor_activities",
+    "socializing",
+    "other"
+  ],
+
+  "government": [
+    "passport",
+    "visa",
+    "driving_license",
+    "government_fees",
+    "document_fees",
+    "fines",
+    "taxes",
+    "other"
+  ],
+
+  "miscellaneous": [
+    "cash_withdrawal",
+    "unexpected_expense",
+    "other"
+  ]
+}
